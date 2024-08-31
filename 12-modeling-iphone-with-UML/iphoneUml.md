@@ -1,4 +1,4 @@
-# UML da Modelagem de um Iphone
+# Diagrama UML da Modelagem de um Iphone
 
 Possuindo 3 funcionalidades:
 
